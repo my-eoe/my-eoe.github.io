@@ -1,0 +1,17 @@
+theme: jekyll-agency
+
+url    : ""
+baseurl: "" 
+
+title: My EoE
+email: "" #this is also the email contact forms will go to
+description: "This survey seeks to evaluate your knowledge and experience as a patient with Eosinophilic Esophagitis (EoE), by determining how you manage your symptoms daily; handle your clinic and endoscopy visits; and make decisions about your disease management."
+author: lrusso96
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+analytics:
+  google: #Google Analytics tracking code here
+
+markdown: kramdown

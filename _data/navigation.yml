@@ -1,0 +1,10 @@
+nav:    
+  - title:
+      en: "About"
+      it: "Informazioni"
+    section: timeline
+
+  - title:
+      en: "Team"
+      it: "Chi siamo"
+    section: team

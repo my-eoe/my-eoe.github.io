@@ -1,0 +1,148 @@
+header:
+    title:
+      en: Welcome to our survey about
+      it: Benvenuto alla nostra survey su
+    text:
+      en: Eosinophilic Esophagitis
+      it: Esofagite Eosinofila
+    button:
+      en: Tell Me More
+      it: Scopri di più
+    buttonlink: "#timeline"
+
+services:
+    title:
+      en: "Not English?"
+      it: "Not Italian?"
+    text: Fill the survey in your native language then.
+    section: services
+    list:
+      - title: "English"
+        locale: en
+        desc: "[Click here](https://my-eoe.github.io/) to fill the survey."
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/1920px-Flag_of_the_United_States_%28Pantone%29.svg.png"
+      - title: "Italiano"
+        locale: it
+        desc: "[Clicca qui](https://my-eoe.github.io/italian) per compilare il questionario."
+        image: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"
+      - title: "Deutsch"
+        locale: de
+        desc: "[Klicken Sie hier](https://my-eoe.github.io/wip.html)."
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png"       
+        locale: fr
+      - title: "עברית"
+        desc: "[לחץ כאן](https://my-eoe.github.io/wip.html)"
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png"
+      - title: "Español"
+        locale: es
+        desc: "[Haga clic aquí](https://my-eoe.github.io/wip.html)."
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png"
+
+timeline:
+    title:
+      en: "About"
+      it: "About"
+    text:
+      en: "Eosinophilic esophagitis (EoE) is a chronic immune-mediated disease of the esophagus characterized by symptoms related to esophageal dysfunction, and by an eosinophil-predominant esophageal inflammation.<br/><br/>
+
+      Currently data on the direct experience of the patient with Eosinophilic Esophagitis are lacking or incomplete.
+      The main objective of this study is to know the feelings and experiences of patients suffering from eosinophilic Esophagitis, through two simple and short questionnaires, completely anonymous.<br/><br/>
+      
+      Participation in the surveys is voluntary and they are addressed to patients with eosinophilic esophagitis or their parents/legal guardians. The objective of these questions is to assess: how much patients with Eosinophilic Esophagitis and their families know about the disease, how they feel involved in the doctor's decisions and how Eosinophilic Esphagitis affects their daily life."
+
+      it: "L'esofagite eosinofila (EoE) è una malattia cronica immuno-antigene-mediata, caratterizzata da sintomi di disfunzione esofagea, associati a un'infiammazione eosinofilica della mucosa esofagea. <br/><br/>
+      
+      Attualmente non esistono dati sull'esperienza diretta dei pazienti affetti da Esofagite Eosinofila o quelli presenti sono scarsi e incompleti per l’esiguità delle popolazioni studiate. L'obiettivo principale di questo studio è quello di conoscere le sensazioni e le esperienze dei pazienti affetti da Esofagite Eosinofila, attraverso due semplici e brevi questionari, completamente anonimi, rivolti a pazienti affetti da Esofagite Eosinofila o, in caso di minori, ai loro genitori/tutori legali.<br/><br/>
+
+      La partecipazione è volontaria ed è possibile interrompere la compilazione in qualsiasi momento. Gli obiettivi principali di questi due sondaggi sono quelli di valutare quanto i pazienti affetti da Esofagite Eosinofila e le loro famiglie siano informati sulla malattia, quanto si sentano coinvolti nei processi decisionali del medico di riferimento e quanto e in che modo l'Esfagite Eosinofila condiziona la loro vita quotidiana."
+    section: timeline
+    events:
+      - title:
+          en: "Consolidated Questionnaire for Eosinophilic Gastrointestinal Disorders"
+          it: "Questionario consolidato per i Disturbi Eosinofilici Gastrointenstinali"
+        year: "1."
+        desc:
+          en: "CLick here to fill it."
+          it: "Clicca qui per compilare il questionario."
+        image: assets/img/timeline/b1.jpg
+        alt: 
+      - title:
+          en: "Patient Experiences in Eosinophilic Esophagitis"
+          it: "..."
+        year: "2."
+        desc:
+          en: "Click here to fill it."
+          it: "Clicca qui per compilare il questionario."
+        image: assets/img/timeline/b2.jpg
+        alt: 
+    end:
+      en: "That's all. <br> <br> Thanks!"
+      it: "Grazie di <br> aver partecipato!"
+
+clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "yes"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+team:
+    title:
+      en: OUR TEAM
+      it: CHI SIAMO
+    text:
+      en: Lorem ipsum dolor sit amet consectetur.
+      it: ...
+    subtext:
+      en:
+      it:
+    section: team
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Salvatore Oliva"
+        role: "Principal Investigator"
+        image: assets/img/team/salvatore-oliva.jpg
+        social:
+          - url: mailto:salvatore.oliva@uniroma1.it
+            icon: fas fa-envelope
+          - url: https://salvatoreoliva.com/
+            icon: fa fa-home
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+    
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

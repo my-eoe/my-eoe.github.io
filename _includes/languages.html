@@ -1,0 +1,31 @@
+<!-- Languages -->
+  <section class="page-section" id="{{ site.data.sitetext.languages.section | default: "languages" }}">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.languages.title[include.locale] | default: "Languages" }}</h2>
+          {% if site.data.sitetext.languages.text %}
+		  <h3 class="section-subheading text-muted">{{ site.data.sitetext.languages.text }}</h3>
+		  {% endif %}
+        </div>
+      </div>
+	  
+      <div class="row text-center">
+	  {% for language in site.data.sitetext.languages.list %}
+    {% unless language.locale == include.locale %}
+        <div class="col-md-3 language">
+          <img class="mx-auto rounded-circle" src="{{ language.image }}" alt="">
+          <h4 class="language-heading">{{ language.title | markdownify }}</h4>
+          {% if language.desc %}<div class="text-muted">{{ language.desc | markdownify }}</div>{% endif %}
+        </div>
+    {% endunless %}
+	  {% endfor %}
+      </div>
+      <div class="row">
+        <div class="col-lg-8 mx-auto text-center">
+          <div class="large text-muted">{{ site.data.sitetext.languages.subtext | markdownify }}</div>
+        </div>
+        </div>
+    </div>
+  </section>
+<!-- End Languages -->

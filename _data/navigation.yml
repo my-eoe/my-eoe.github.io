@@ -8,3 +8,8 @@ nav:
       en: "Team"
       it: "Chi siamo"
     section: team
+
+  - title:
+      en: Not English?
+      it: Not Italian?
+    section: languages

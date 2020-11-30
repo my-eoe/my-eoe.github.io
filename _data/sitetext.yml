@@ -10,12 +10,13 @@ header:
       it: Scopri di più
     buttonlink: "#timeline"
 
-services:
+languages:
     title:
       en: "Not English?"
       it: "Not Italian?"
     text: Fill the survey in your native language then.
-    section: services
+    section: languages
+    subtext: You don't find your language? Don't esitate to contact us! 
     list:
       - title: "English"
         locale: en
@@ -105,7 +106,7 @@ team:
       en: Lorem ipsum dolor sit amet consectetur.
       it: ...
     subtext:
-      en:
+      en: 
       it:
     section: team
     people:

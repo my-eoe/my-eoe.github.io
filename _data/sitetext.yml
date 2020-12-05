@@ -63,7 +63,7 @@ timeline:
           it: "Questionario consolidato per i Disturbi Eosinofilici Gastrointenstinali"
         year: "1."
         desc:
-          en: "CLick here to fill it."
+          en: "[CLick here](https://forms.gle/GbRjYv64RTJzHtAC8){:target='_blank'} to fill it."
           it: "Clicca qui per compilare il questionario."
         image: assets/img/timeline/b1.jpg
         alt: 
@@ -72,7 +72,7 @@ timeline:
           it: "..."
         year: "2."
         desc:
-          en: "Click here to fill it."
+          en: "[Click here](https://forms.gle/Hj6c5VZ3huJENTx26){:target='_blank'} to fill it."
           it: "Clicca qui per compilare il questionario."
         image: assets/img/timeline/b2.jpg
         alt: 

@@ -37,7 +37,7 @@ languages:
         locale: fr
       - title: "עברית"
         locale: he
-        desc: "[לחץ כאן](https://my-eoe.github.io/wip.html)"
+        desc: "[לחץ כאן](https://my-eoe.github.io/hebrew)"
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png"
       - title: "Español"
         locale: es

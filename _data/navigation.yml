@@ -1,15 +1,18 @@
 nav:    
   - title:
-      en: "About"
-      it: "Informazioni"
+      en: About
+      he: About
+      it: Informazioni
     section: timeline
 
   - title:
-      en: "Team"
-      it: "Chi siamo"
+      en: Team
+      he: Team
+      it: Chi siamo
     section: team
 
   - title:
       en: Not English?
+      he: Not Hebrew?
       it: Not Italian?
     section: languages

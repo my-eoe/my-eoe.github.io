@@ -1,15 +1,15 @@
 header:
     title:
       en: Welcome to our survey about
-      he: Welcome to our survey about
+      he: ברוכים הבאים לשאלון שלנו בנושא
       it: Benvenuto nella nostra pagina sulla
     text:
       en: Eosinophilic Esophagitis
-      he: Eosinophilic Esophagitis
+      he: דלקת ושט אאוזינופילית
       it: Esofagite Eosinofila
     button:
       en: Tell Me More
-      he: Tell Me More
+      he: ספר לי עוד
       it: Scopri di più
     buttonlink: "#timeline"
 
@@ -47,7 +47,7 @@ languages:
 timeline:
     title:
       en: About
-      he: About
+      he: אודות
       it: About
     text:
       en: "Eosinophilic esophagitis (EoE) is a chronic immune-mediated disease of the esophagus characterized by symptoms related to esophageal dysfunction, and by an eosinophil-predominant esophageal inflammation.<br/><br/>
@@ -57,7 +57,8 @@ timeline:
       
       Participation in the surveys is voluntary and they are addressed to patients with eosinophilic esophagitis or their parents/legal guardians. The objective of these questions is to assess: how much patients with Eosinophilic Esophagitis and their families know about the disease, how they feel involved in the doctor's decisions and how Eosinophilic Esphagitis affects their daily life."
 
-      he: TODO
+      he: "דלקת ושט אאוזינופילית הינה מחלה כרונית המטווחת על ידי מערכת החיסון ומערבת את הושט. היא מאופיינת על ידי תסמינים הקשורים לחוסר תפקוד תקין של הושט ועל ידי תסנין עשיר בתאי דלקת אאוזינופילים בדפנות הושט.  קיים מעט מאוד מידע אודות חוויות ותחושות מטופלים המאובחנים עם דלקת ושט אאוזינופילית.
+המטרה העיקרית של עבודת מחקר זו היא ללמוד, דרך הדיווחים שלכם, המטופלים, את חוויות ותחושות המטופל המאובחן עם מחלה זו בעזרת שתי שאלונים קצרים שהנם אנונימיים לחלוטין. ההשתתפות במילוי השאלונים היא על בסיס התנדבותי והם מנוסחים עבור מטופלים עם דלקת ושט אאוזינופילית מעל גיל 18 או עבור הורים/אפוטרופסים של מטופלים מתחת לגיל זה. אנחנו רוצים להעריך את מידת הידע של מטופלים ומשפחותיהם אודות דלקת ושט אאוזינופילית, כיצד הם חשים את מעורבותם בשיקולים והחלטות הרופאים המטפלים בהם, וכיצד המחלה משפיעה על חיי היום יום שלהם."
 
       it: "L'esofagite eosinofila (EoE) è una malattia cronica immuno-antigene-mediata, caratterizzata da sintomi di disfunzione esofagea, associati a un'infiammazione eosinofilica della mucosa esofagea. <br/><br/>
       
@@ -90,8 +91,8 @@ timeline:
         alt: 
     end:
       en: "That's all. <br> <br> Thanks!"
-      he: TODO
-      it: "Grazie di <br> aver partecipato!"
+      he: "זה כל. <br> <br> תודה רבה! "
+      it: "Graze di <br> aver partecipato!"
 
 clients:
     section: clients
@@ -114,7 +115,7 @@ clients:
 team:
     title:
       en: OUR TEAM
-      he: OUR TEAM
+      he: צוות
       it: CHI SIAMO
     text:
       en: Lorem ipsum dolor sit amet consectetur.

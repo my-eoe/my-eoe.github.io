@@ -1,13 +1,13 @@
 nav:    
   - title:
       en: About
-      he: About
+      he: אודות
       it: Informazioni
     section: timeline
 
   - title:
       en: Team
-      he: Team
+      he: צוות
       it: Chi siamo
     section: team
 
@@ -16,3 +16,8 @@ nav:
       he: Not Hebrew?
       it: Not Italian?
     section: languages
+
+menu:
+  en: menu
+  he: תפריט
+  it: menu

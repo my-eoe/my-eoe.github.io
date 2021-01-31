@@ -140,14 +140,14 @@ team:
         role:
           en: "Schneider Children's Medical Center of Israel · Institute of Gastroenterogy, Nutrition, and Liver Diseases"
           he:
-          it:
+          it: "Schneider Children's Medical Center of Israel · Institute of Gastroenterogy, Nutrition, and Liver Diseases"
         image: assets/img/team/noam-zevit.png
         social:
       - name: "Salvatore Oliva"
         role:
           en: "Pediatric Gastroenterology and Liver Unit Maternal and Child Health Department. Sapienza University - Rome"
           he:
-          it: "Unità di gastroenterologia ed epatologia Pediatrica - Dipartimento Materno-Infantile Sapienza Università di Roma"
+          it: "Unità di Gastroenterologia ed Epatologia Pediatrica - Dipartimento Materno-Infantile. Sapienza Università di Roma"
         image: assets/img/team/salvatore-oliva.jpg
         social:
           - url: mailto:salvatore.oliva@uniroma1.it

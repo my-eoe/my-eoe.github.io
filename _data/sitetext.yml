@@ -157,7 +157,7 @@ team:
       - name: "Noam Zevit"
         role:
           en: "Schneider Children's Medical Center of Israel · Institute of Gastroenterogy, Nutrition, and Liver Diseases"
-          es: "Schneider Children's Medical Center of Israel · Institute of Gastroenterogy, Nutrition, and Liver Diseases"
+          es: "Centro Médico Infantil Schneider de Israel · Instituto de Gastroenterología, Nutrición y Enfermedades Hepáticas"
           he:
           it: "Schneider Children's Medical Center of Israel · Institute of Gastroenterogy, Nutrition, and Liver Diseases"
         image: assets/img/team/noam-zevit.png
@@ -165,7 +165,7 @@ team:
       - name: "Salvatore Oliva"
         role:
           en: "Pediatric Gastroenterology and Liver Unit Maternal and Child Health Department. Sapienza University - Rome"
-          es: "Unità di Gastroenterologia ed Epatologia Pediatrica - Dipartimento Materno-Infantile. Sapienza Università di Roma"
+          es: "Unidad de Gastroenterología y Hepatología Pediátrica - Departamento Materno Infantil. Universidad Sapienza de Roma"
           he:
           it: "Unità di Gastroenterologia ed Epatologia Pediatrica - Dipartimento Materno-Infantile. Sapienza Università di Roma"
         image: assets/img/team/salvatore-oliva.jpg

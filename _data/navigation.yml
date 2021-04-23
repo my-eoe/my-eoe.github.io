@@ -1,23 +1,27 @@
-nav:    
+nav:
   - title:
       en: About
+      es: Acerca de
       he: אודות
       it: Informazioni
     section: timeline
 
   - title:
       en: Team
+      es: Equipo
       he: צוות
       it: Chi siamo
     section: team
 
   - title:
       en: Not English?
+      es: Not Spanish?
       he: Not Hebrew?
       it: Not Italian?
     section: languages
 
 menu:
   en: menu
+  es: menú
   he: תפריט
   it: menu

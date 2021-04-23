@@ -1,14 +1,17 @@
 header:
     title:
       en: Welcome to our survey about
+      es: Bienvenido a nuestra encuesta sobre
       he: ברוכים הבאים לשאלון שלנו בנושא
       it: Benvenuto nella nostra pagina sulla
     text:
       en: Eosinophilic Esophagitis
+      es: Esofagitis Eosinofílica
       he: דלקת ושט אאוזינופילית
       it: Esofagite Eosinofila
     button:
       en: Tell Me More
+      es: Cuéntame más
       he: ספר לי עוד
       it: Scopri di più
     buttonlink: "#timeline"
@@ -41,7 +44,7 @@ languages:
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1280px-Flag_of_Israel.svg.png"
       - title: "Español"
         locale: es
-        desc: "[Haga clic aquí](https://my-eoe.github.io/wip.html)."
+        desc: "[Haga clic aquí](https://my-eoe.github.io/spanish)."
         image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png"
 
 timeline:
@@ -57,6 +60,13 @@ timeline:
       
       Participation in the surveys is voluntary and they are addressed to patients with eosinophilic esophagitis or their parents/legal guardians. The objective of these questions is to assess: how much patients with Eosinophilic Esophagitis and their families know about the disease, how they feel involved in the doctor's decisions and how Eosinophilic Esphagitis affects their daily life. Finally, we have added a third questionnaire with only one question which asks if you will be interested in participating in the next stage of the project in which we will try to develop an internet based decision assisting tool to help patients and practitioners make the best clinical decisions for their patients based on both clinical and test results as well as patient identified preferences."
 
+      es: "La esofagitis eosinofília (EoE) es una enfermedad crónica del esófago mediada por el sistema inmunitario que se caracteriza por síntomas relacionados con la disfunción esofágica y por una inflamación esofágica con predominio de eosinófilos.<br/><br/>
+      
+      Actualmente, los datos sobre la experiencia directa del paciente con esofagitis eosinofílica son escasos o incompletos. El objetivo principal de este estudio es conocer los sentimientos y vivencias de los pacientes que padecen Esofagitis eosinofílica, a través de dos cuestionarios sencillos y breves, completamente anónimos.<br/><br/>
+      
+      La participación en las encuestas es voluntaria y están dirigidas a pacientes con esofagitis eosinofílica o sus padres / tutores legales. El objetivo de estas preguntas es evaluar: cuánto saben los pacientes con esofagitis eosinofílica y sus familias sobre la enfermedad, cómo se sienten involucrados en las decisiones del médico y cómo afecta la esofagitis eosinofílica a su vida diaria.
+      Finalmente, hemos agregado un tercer cuestionario con una sola pregunta que le consulta si está interesado en participar en la siguiente etapa del proyecto, en el que intentaremos desarrollar una herramienta de asistencia a la toma de decisiones basada en Internet, para ayudar a los pacientes y a los médicos a realizar las mejores decisiones clínicas para sus pacientes, basadas en resultados de pruebas, así como en las preferencias identificadas por el paciente."
+
       he: "דלקת ושט אאוזינופילית הינה מחלה כרונית המטווחת על ידי מערכת החיסון ומערבת את הושט. היא מאופיינת על ידי תסמינים הקשורים לחוסר תפקוד תקין של הושט ועל ידי תסנין עשיר בתאי דלקת אאוזינופילים בדפנות הושט.  קיים מעט מאוד מידע אודות חוויות ותחושות מטופלים המאובחנים עם דלקת ושט אאוזינופילית.
 המטרה העיקרית של עבודת מחקר זו היא ללמוד, דרך הדיווחים שלכם, המטופלים, את חוויות ותחושות המטופל המאובחן עם מחלה זו בעזרת שתי שאלונים קצרים שהנם אנונימיים לחלוטין. ההשתתפות במילוי השאלונים היא על בסיס התנדבותי והם מנוסחים עבור מטופלים עם דלקת ושט אאוזינופילית מעל גיל 18 או עבור הורים/אפוטרופסים של מטופלים מתחת לגיל זה. אנחנו רוצים להעריך את מידת הידע של מטופלים ומשפחותיהם אודות דלקת ושט אאוזינופילית, כיצד הם חשים את מעורבותם בשיקולים והחלטות הרופאים המטפלים בהם, וכיצד המחלה משפיעה על חיי היום יום שלהם. בסוף, ובנפרד מהשאלונים, הוספנו שאלון של שאלה בודדת אשר שואלת אם תרצו להיות שותפים בשלב הבא של פרויקט זה על ידי עזרה בפיתוח/ניסוי כלי עזר אינטרנטי אשר מתכלל אינפורמציה אודות המטופל ומחלתו, רצונותיו והעדפותיו - ומטרתו לעזור למטופל ולצוות הרפואי לבחור את הטיפול הטוב ביותר עבור המטופל. כאן תתבקשו להזין כתובת מייל בכדי שנוכל לחזור אליכם בעתיד. לא ניתן יהיה לקשר בין כתובת זו לתשובות שהזנתם לשאלונים האחרים"
 
@@ -69,39 +79,46 @@ timeline:
     events:
       - title:
           en: "Consolidated Questionnaire for Eosinophilic Gastrointestinal Disorders"
+          es: "Cuestionario consolidado para trastornos gastrointestinales eosinofílicos"
           he: "שאלון מרוכז בנושא מחלות אאוזינופליות של מערכת העיכול (כל הסוגים)"
           it: "Questionario consolidato per i Disturbi Eosinofilici Gastrointenstinali"
         year: "1."
         desc:
           en: "[CLick here](https://forms.gle/GbRjYv64RTJzHtAC8){:target='_blank'} to fill it."
+          es: "[Haga clic aquí](https://forms.gle/Bv6biDfEqFUc9yC58){:target='_blank'} para rellenarlo."
           it: "[Clicca qui](https://forms.gle/9wdxe83Fa2bDtxCL6){:target='_blank'} per compilare il questionario."
           he: "[לחץ כאן](https://forms.gle/3tofxfJh3dKP2pRt6){:target='_blank'}"
         image: assets/img/timeline/b1.jpg
         alt:
       - title:
           en: "Patient Experiences in Eosinophilic Esophagitis"
+          es: "Experiencias de pacientes con esofagitis eosinofílica"
           he: "חווית המטופל - דלקת ושט אאוזינופילית (EoE)"
           it: "Esperienze del paziente con Esofagite Eosinofila"
         year: "2."
         desc:
           en: "[Click here](https://forms.gle/Hj6c5VZ3huJENTx26){:target='_blank'} to fill it."
+          es: "[Haga clic aquí](https://forms.gle/6Ti9NPiR5VLSFiju8){:target='_blank'} para rellenarlo."
           he: "[לחץ כאן כדי להתחיל](https://forms.gle/91auZ34oLQRABwyr8)"
           it: "[Clicca qui](https://forms.gle/Dk6c6wGCQLtahk818){:target='_blank'} per compilare il questionario."
         image: assets/img/timeline/b2.jpg
         alt:
       - title:
           en: "Future Perspectives"
+          es: "Perspectivas futuras"
           he: "Future Perspectives"
           it: "Prospettive future"
         year: "3."
         desc:
           en: "[Click here](https://forms.gle/QfXamo6QRLCCmyVcA){:target='_blank'} to fill it."
+          es: "[Haga clic aquí](https://forms.gle/bS6P6FCdJtMzNnz76){:target='_blank'} para rellenarlo."
           he: "לחץ כאן כדי להתחיל"
           it: "[Clicca qui](https://forms.gle/a21v5h7e7NxwPg8E8){:target='_blank'} per compilare."
         image: "https://halalfocus.net/wp-content/uploads/2014/05/question-mark-nothing.jpg"
         alt:
     end:
       en: "That's all. <br> <br> Thanks!"
+      es: "Eso es todo. ¡Gracias!"
       he: "זה כל. <br> <br> תודה רבה! "
       it: "Grazie di <br> aver partecipato!"
 
@@ -126,6 +143,7 @@ clients:
 team:
     title:
       en: OUR TEAM
+      es: EQUIPO
       he: צוות
       it: CHI SIAMO
     text:

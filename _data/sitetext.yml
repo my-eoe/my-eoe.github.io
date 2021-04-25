@@ -19,11 +19,16 @@ header:
 languages:
     title:
       en: Not English?
+      es: Not Spanish?
       he: Not Hebrew?
       it: Not Italian?
     text: Fill the survey in your native language then.
     section: languages
-    subtext: "For any problem don't esitate to [contact](/legal) us." 
+    subtext:
+      en: "For any problem don't esitate to [contact](/legal) us."
+      es: "Para cualquier problema no dude en [ponerse en contacto](/legal) con nosotros."
+      he: "For any problem don't esitate to [contact](/legal) us."
+      it: "Per qualsiasi problema non esitare a [contattarci](/legal)." 
     list:
       - title: "English"
         locale: en
@@ -50,6 +55,7 @@ languages:
 timeline:
     title:
       en: About
+      es: Acerca de
       he: אודות
       it: About
     text:

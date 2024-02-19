@@ -1,11 +1,14 @@
 <!-- About -->
-  <section class="page-section" id="{{ site.data.sitetext.timeline.section | default: "about" }}">
+<section class="page-section" id="{{ site.data.sitetext.timeline.section | default: 'about' }}">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.timeline.title[include.locale] | markdownify | default: "About" }}</h2>
           {%- if include.locale == "he" -%}
-          <h3 class="section-subheading text-muted text-right">{{ site.data.sitetext.timeline.text[include.locale] | markdownify | default: "timeline"}}</h3>
+          <h3 class="section-subheading text-muted text-right">
+          <p style="direction:rtl">
+            {{ site.data.sitetext.timeline.text[include.locale] }}
+          </p>
           {%- else -%}
           <h3 class="section-subheading text-muted">{{ site.data.sitetext.timeline.text[include.locale] | markdownify | default: "timeline"}}</h3>
           {% endif %}
@@ -34,7 +37,7 @@
               {% endif %}
             {%- endif -%}
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ''}}">
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">

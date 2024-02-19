@@ -54,7 +54,11 @@
 		  {% if site.data.sitetext.timeline.end[include.locale] %}	
 			<li class="timeline-inverted">
               <div class="timeline-image">
+                {%- if include.locale == "he" -%}
+                <h4 style="direction:rtl">{{ site.data.sitetext.timeline.end[include.locale] }}</h4>
+                {% else %}
                 <h4>{{ site.data.sitetext.timeline.end[include.locale] }}</h4>
+                {% endif %}
               </div>
             </li>
 		  {% endif %}
